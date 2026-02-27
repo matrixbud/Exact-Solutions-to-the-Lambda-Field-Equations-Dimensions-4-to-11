@@ -1,0 +1,2 @@
+# Methodical-Development-of-Exact-Solutions-to-the-Lambda-Field-Equations-Dimensions-4-to-11
+A methodical approach has been developed to search for exact solutions to the Lambda Empty-Field Equations. I provide both Mathematica and pdf documentation of the develpment of each solution. I limit the extra dimensions to be circles, spheres, 3-spheres, 4-spheres, 5-spheres, and 6-spheres, or products of different dimension spheres.
